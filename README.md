@@ -3,6 +3,9 @@
 Simple ICM (Independent Chip Model) Calculator for poker deals in python using DFS
 
 ## How to use
+
+Just change the values [here](https://github.com/pwn2ooown/Simple-ICM-Calculator-Python/blob/main/icm.py#L72)
+
 - chips: list of player chip count, can be int or float
 - payouts: list of payouts, can be int or float. **Must be in descending order (payout[0] = champion payout)**
 
